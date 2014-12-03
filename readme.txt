@@ -1,3 +1,2 @@
 Git is a free software
-Git is a version control system
-wo cao1
+Git is a destributed version control system
